@@ -3,8 +3,9 @@
    "CSS",
    "Javascript",
    "React",
-   "NodeJS",
    "MongoDB",
+   "Graphql",
+   "NodeJs",
  ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
