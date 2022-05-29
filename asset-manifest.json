@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d276d4c9.chunk.css",
-    "main.js": "/static/js/main.ec7560d5.chunk.js",
-    "main.js.map": "/static/js/main.ec7560d5.chunk.js.map",
+    "main.js": "/static/js/main.681224eb.chunk.js",
+    "main.js.map": "/static/js/main.681224eb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c0982aaf.js",
     "runtime-main.js.map": "/static/js/runtime-main.c0982aaf.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -103,6 +103,7 @@
     "static/media/mysql.f9e45d29.svg": "/static/media/mysql.f9e45d29.svg",
     "static/media/nextJS.fc272ac2.svg": "/static/media/nextJS.fc272ac2.svg",
     "static/media/nginx.14c0011a.svg": "/static/media/nginx.14c0011a.svg",
+    "static/media/nodejs.615ffbea.svg": "/static/media/nodejs.615ffbea.svg",
     "static/media/numpy.5bdfa40b.svg": "/static/media/numpy.5bdfa40b.svg",
     "static/media/nuxtJS.81cb52af.svg": "/static/media/nuxtJS.81cb52af.svg",
     "static/media/one.a3146128.svg": "/static/media/one.a3146128.svg",
@@ -152,6 +153,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.0e837582.chunk.js",
     "static/css/main.d276d4c9.chunk.css",
-    "static/js/main.ec7560d5.chunk.js"
+    "static/js/main.681224eb.chunk.js"
   ]
 }
