@@ -1,6 +1,6 @@
 {
-  "name": "developer-portfolio",
-  "homepage": "https://tulsipada.github.io/",
+  "name": "tulsipada-portfolio",
+  "homepage":"https://tulsipada.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,6 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
-    "gh-pages": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-fast-marquee": "^1.2.1",
