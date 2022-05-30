@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d276d4c9.chunk.css",
-    "main.js": "/static/js/main.4927feab.chunk.js",
-    "main.js.map": "/static/js/main.4927feab.chunk.js.map",
+    "main.js": "/static/js/main.44cc3fba.chunk.js",
+    "main.js.map": "/static/js/main.44cc3fba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c0982aaf.js",
     "runtime-main.js.map": "/static/js/runtime-main.c0982aaf.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.d276d4c9.chunk.css.map": "/static/css/main.d276d4c9.chunk.css.map",
     "static/js/2.2b36378e.chunk.js.LICENSE.txt": "/static/js/2.2b36378e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
-    "static/media/Tulsipada.601cb683.png": "/static/media/Tulsipada.601cb683.png",
+    "static/media/Tulsipada.e6dd6b88.png": "/static/media/Tulsipada.e6dd6b88.png",
     "static/media/adobe-xd.a6dca99d.svg": "/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/static/media/adobeaudition.afa937d5.svg",
     "static/media/after-effects.3c076652.svg": "/static/media/after-effects.3c076652.svg",
@@ -153,6 +153,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.2b36378e.chunk.js",
     "static/css/main.d276d4c9.chunk.css",
-    "static/js/main.4927feab.chunk.js"
+    "static/js/main.44cc3fba.chunk.js"
   ]
 }
