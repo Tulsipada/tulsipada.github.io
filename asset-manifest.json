@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d276d4c9.chunk.css",
-    "main.js": "/static/js/main.ccbd3acf.chunk.js",
-    "main.js.map": "/static/js/main.ccbd3acf.chunk.js.map",
+    "main.js": "/static/js/main.7472729f.chunk.js",
+    "main.js.map": "/static/js/main.7472729f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c0982aaf.js",
     "runtime-main.js.map": "/static/js/runtime-main.c0982aaf.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -104,6 +104,7 @@
     "static/media/nextJS.fc272ac2.svg": "/static/media/nextJS.fc272ac2.svg",
     "static/media/nginx.14c0011a.svg": "/static/media/nginx.14c0011a.svg",
     "static/media/nodejs.615ffbea.svg": "/static/media/nodejs.615ffbea.svg",
+    "static/media/nodejs.e05fe7be.png": "/static/media/nodejs.e05fe7be.png",
     "static/media/numpy.5bdfa40b.svg": "/static/media/numpy.5bdfa40b.svg",
     "static/media/nuxtJS.81cb52af.svg": "/static/media/nuxtJS.81cb52af.svg",
     "static/media/one.a3146128.svg": "/static/media/one.a3146128.svg",
@@ -123,6 +124,7 @@
     "static/media/python.cf32ad96.svg": "/static/media/python.cf32ad96.svg",
     "static/media/pytorch.1862724d.svg": "/static/media/pytorch.1862724d.svg",
     "static/media/react.2b6a0717.svg": "/static/media/react.2b6a0717.svg",
+    "static/media/reactjs.2fad5f46.png": "/static/media/reactjs.2fad5f46.png",
     "static/media/redTheme-boy.846d9d39.svg": "/static/media/redTheme-boy.846d9d39.svg",
     "static/media/redTheme-girl.1ebbd52c.svg": "/static/media/redTheme-girl.1ebbd52c.svg",
     "static/media/resume.bc382d73.pdf": "/static/media/resume.bc382d73.pdf",
@@ -153,6 +155,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.4f40e645.chunk.js",
     "static/css/main.d276d4c9.chunk.css",
-    "static/js/main.ccbd3acf.chunk.js"
+    "static/js/main.7472729f.chunk.js"
   ]
 }
