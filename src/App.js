@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-d
 // const { BrowserRouter, Route, Switch, Redirect } = React.lazy(() => import('react-router-dom'));
 
 // import { ThemeContext } from './contexts/ThemeContext';
-import { Main, BlogPage, ProjectPage } from './pages'
+import { Main, ProjectPage } from './pages'
 import { BackToTop } from './components'
 import ScrollToTop from './utils/ScrollToTop'
 
