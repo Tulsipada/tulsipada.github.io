@@ -27,7 +27,7 @@ function App() {
         <ScrollToTop />
         <Switch>
           <Route path="/" exact component={Main} />
-          <Route path="/blog" exact component={BlogPage} />
+          {/* <Route path="/blog" exact component={BlogPage} /> */}
           <Route path="/projects" exact component={ProjectPage} />
           <Route path="*" exact component={Notfound} />
           <Redirect to="/" />
