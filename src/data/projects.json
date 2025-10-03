@@ -1,0 +1,188 @@
+{
+  "title": "Projects",
+  "description": "A showcase of my recent work and projects",
+  "projects": [
+    {
+      "title": "Velocity",
+      "period": "January 2024 - August 2025",
+      "description": "Developing a comprehensive property management and real estate solutions platform featuring property listings, tenant management, maintenance tracking, and financial analytics for streamlined property operations.",
+      "icon": "Building",
+      "type": "Web Application",
+      "technologies": ["Node.js", "Property Management", "Real Estate Platform", "Tenant Management", "Financial Analytics"],
+      "highlights": [
+        "Advanced property listing and search system",
+        "Comprehensive tenant and lease management",
+        "Automated maintenance tracking and scheduling",
+        "Financial reporting and analytics dashboard"
+      ],
+      "color": "bg-gradient-to-r from-slate-600 to-gray-600",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://velocitypropertysolutions.io/",
+          "icon": "Globe"
+        }
+      ]
+    },
+    {
+      "title": "CineSaga",
+      "period": "August 2024 - Present",
+      "description": "Developing a comprehensive OTT (Over-The-Top) streaming platform featuring movie and series streaming, user subscriptions, content management, and personalized recommendations for seamless entertainment experiences.",
+      "icon": "Play",
+      "type": "Web Application",
+      "technologies": ["Node.js", "OTT Platform", "Streaming Technology", "Subscription Management", "Content Delivery"],
+      "highlights": [
+        "Advanced video streaming and content delivery system",
+        "Comprehensive subscription and payment management",
+        "Personalized content recommendations and user profiles",
+        "Multi-device streaming support and offline downloads"
+      ],
+      "color": "bg-gradient-to-r from-violet-600 to-purple-600",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://cinesaga.in/",
+          "icon": "Globe"
+        }
+      ]
+    },
+    {
+      "title": "FreeTheMarket",
+      "period": "October 2023 - February 2024",
+      "description": "Developed a comprehensive rideshare platform featuring driver-rider matching, real-time tracking, fare calculation, payment processing, and route optimization for seamless transportation experiences.",
+      "icon": "Car",
+      "type": "Web Application",
+      "technologies": ["Node.js", "Rideshare Platform", "Real-time Tracking", "Payment Processing", "Route Optimization"],
+      "highlights": [
+        "Advanced driver-rider matching algorithm",
+        "Real-time GPS tracking and route optimization",
+        "Secure payment processing and fare calculation",
+        "Comprehensive rating and review system"
+      ],
+      "color": "bg-gradient-to-r from-emerald-600 to-teal-600",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://freethemarket-rideshare.com/",
+          "icon": "Globe"
+        }
+      ]
+    },
+    {
+      "title": "TripZinga",
+      "period": "March 2023 - August 2023",
+      "description": "Developed a comprehensive travel planning and management platform featuring trip organization, expense tracking, points management, and community features for seamless travel experiences.",
+      "icon": "MapPin",
+      "type": "Web Application",
+      "technologies": ["Node.js", "Travel Management", "Expense Tracking", "Community Forum", "Points System"],
+      "highlights": [
+        "Comprehensive trip planning and itinerary management",
+        "Advanced expense tracking with visual analytics",
+        "Integrated points and rewards system",
+        "Community forum for travel tips and advice"
+      ],
+      "color": "bg-gradient-to-r from-teal-600 to-cyan-600",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://tripzinga.com/",
+          "icon": "Globe"
+        }
+      ]
+    },
+    {
+      "title": "MailGoblin",
+      "period": "January 2023 - May 2023",
+      "description": "Developed a comprehensive email marketing and automation platform featuring campaign management, subscriber analytics, template builder, and automated workflow systems for businesses.",
+      "icon": "Mail",
+      "type": "Web Application",
+      "technologies": ["Node.js", "Email Marketing", "Campaign Management", "Analytics", "Automation"],
+      "highlights": [
+        "Advanced email campaign management system",
+        "Comprehensive subscriber analytics and reporting",
+        "Drag-and-drop email template builder",
+        "Automated workflow and drip campaigns"
+      ],
+      "color": "bg-gradient-to-r from-indigo-600 to-purple-600",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://mailgoblin.com/",
+          "icon": "Globe"
+        }
+      ]
+    },
+    {
+      "title": "Reboundate",
+      "period": "September 2022 - January 2023",
+      "description": "Designed and implemented a secure and scalable dating app featuring user authentication, intelligent swiping and matching algorithms, and real-time messaging.",
+      "icon": "Heart",
+      "type": "Mobile App",
+      "technologies": ["Node.js", "MySQL", "Real-time Messaging", "Authentication", "Matching Algorithms"],
+      "highlights": [
+        "Real-time chat implementation",
+        "Advanced matching algorithms"
+      ],
+      "color": "bg-gradient-to-r from-red-600 to-pink-600",
+      "links": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/reboundate-life-after-breakup/id1548712113",
+          "icon": "Apple"
+        },
+        {
+          "name": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.reboundate",
+          "icon": "Play"
+        }
+      ]
+    },
+    {
+      "title": "CrewResume",
+      "period": "August 2022 - December 2022",
+      "description": "Developed and implemented the backend infrastructure of a comprehensive job searching portal focused on resume management and candidate screening.",
+      "icon": "Briefcase",
+      "type": "Web Application",
+      "technologies": ["Node.js", "Resume Management", "Job Portal", "Scalable Architecture"],
+      "highlights": [
+        "Scalable resume parsing system",
+        "Advanced search and filtering",
+        "Efficient candidate management"
+      ],
+      "color": "bg-gradient-to-r from-blue-600 to-emerald-600",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://crewresumes.com/",
+          "icon": "Globe"
+        }
+      ]
+    },
+    {
+      "title": "Brodough",
+      "period": "June 2022 - September 2022",
+      "description": "Designed and developed a feature-rich fantasy gaming application with dynamic gameplay mechanics, advanced social features, and performance optimization.",
+      "icon": "GamepadIcon",
+      "type": "Mobile App",
+      "technologies": ["Node.js", "Gaming Backend", "Social Features", "Performance Optimization"],
+      "highlights": [
+        "Dynamic gameplay mechanics",
+        "Social interaction features",
+        "High-performance game backend"
+      ],
+      "color": "bg-gradient-to-r from-amber-600 to-orange-600",
+      "links": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/app/brodough/id1640157786",
+          "icon": "Apple"
+        },
+        {
+          "name": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.brodough",
+          "icon": "Play"
+        }
+      ]
+    }
+  ]
+}
