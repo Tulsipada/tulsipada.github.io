@@ -6,6 +6,7 @@ import { Footer } from "@/components/portfolio/Footer";
 // Lazy load sections with intersection observer
 const AboutSection = lazy(() => import("@/components/portfolio/AboutSection").then(module => ({ default: module.AboutSection })));
 const ExperienceSection = lazy(() => import("@/components/portfolio/ExperienceSection").then(module => ({ default: module.ExperienceSection })));
+const FreelanceProfiles = lazy(() => import("@/components/portfolio/FreelanceProfiles").then(module => ({ default: module.default })));
 const ProjectsSection = lazy(() => import("@/components/portfolio/ProjectsSection").then(module => ({ default: module.ProjectsSection })));
 const ContactSection = lazy(() => import("@/components/portfolio/ContactSection").then(module => ({ default: module.ContactSection })));
 
@@ -78,6 +79,7 @@ const Index = () => {
         </section>
         <LazySection id="about" Component={AboutSection} />
         <LazySection id="experience" Component={ExperienceSection} />
+        <LazySection id="freelance-profiles" Component={FreelanceProfiles} />
         <LazySection id="projects" Component={ProjectsSection} />
         <LazySection id="contact" Component={ContactSection} />
       </main>

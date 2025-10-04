@@ -29,18 +29,26 @@ export const Navbar = () => {
       
       // Update active section based on scroll position
       const sections = navItems.map(item => item.href.substring(1));
-      const currentSection = sections.find(section => {
+      const scrollPosition = window.scrollY + 100; // Add offset for better detection
+      
+      // Find the current section by checking which section is closest to the top
+      let currentSection = sections[0]; // Default to first section
+      let minDistance = Infinity;
+      
+      sections.forEach(section => {
         const element = document.getElementById(section);
         if (element) {
           const rect = element.getBoundingClientRect();
-          return rect.top <= 64 && rect.bottom >= 64; // Exact navbar height
+          const distance = Math.abs(rect.top - 80); // Distance from ideal position
+          
+          if (distance < minDistance && rect.top <= 100) {
+            minDistance = distance;
+            currentSection = section;
+          }
         }
-        return false;
       });
       
-      if (currentSection) {
-        setActiveSection(currentSection);
-      }
+      setActiveSection(currentSection);
     };
 
     window.addEventListener("scroll", handleScroll);

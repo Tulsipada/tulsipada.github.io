@@ -61,5 +61,19 @@
     "status": "Available for Projects",
     "description": "Currently accepting new client projects and open to full-time opportunities. Response time: Within 24 hours.",
     "isAvailable": true
-  }
+  },
+  "freelanceProfiles": [
+    {
+      "platform": "Upwork",
+      "handle": "01234714ef0e24c132",
+      "url": "https://www.upwork.com/freelancers/~01234714ef0e24c132",
+      "icon": "Briefcase"
+    },
+    {
+      "platform": "Fiverr",
+      "handle": "tulsipada",
+      "url": "https://www.fiverr.com/tulsipada",
+      "icon": "Zap"
+    }
+  ]
 }

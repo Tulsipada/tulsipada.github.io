@@ -128,7 +128,7 @@ export const HeroSection = () => {
   });
 
   return (
-        <section className="relative h-screen flex items-center justify-center overflow-hidden bg-gradient-hero pt-16">
+        <section className="relative h-screen flex items-center justify-center overflow-hidden bg-gradient-hero pt-24">
           {/* CSS Background - no JavaScript required */}
           <div className="absolute inset-0 z-0">
             <ThreeJSBackground />
