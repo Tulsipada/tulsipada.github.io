@@ -36,7 +36,7 @@ export function CSS3DProfile({ imageUrl }: CSS3DProfileProps) {
           )}
           <img
             src={imageUrl}
-            alt="Tulsipada Das - Node.js Developer"
+             alt="Tulsipada Das - Full Stack Developer"
             className="w-full h-full object-cover"
             loading="eager"
             fetchPriority="high"

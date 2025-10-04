@@ -1,6 +1,6 @@
 # Tulsipada Das - Portfolio Website
 
-A modern, responsive portfolio website showcasing my skills as a Node.js Developer. Built with React, TypeScript, and modern web technologies.
+A modern, responsive portfolio website showcasing my skills as a Full Stack Developer. Built with React, TypeScript, and modern web technologies.
 
 ## 🚀 Live Demo
 

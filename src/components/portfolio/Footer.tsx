@@ -21,7 +21,7 @@ const Footer = memo(() => {
               Tulsipada Das
             </h3>
             <p className="text-sm text-muted-foreground">
-              Node.js Developer & Full Stack Engineer
+              Full Stack Developer & Engineer
             </p>
           </motion.div>
 
